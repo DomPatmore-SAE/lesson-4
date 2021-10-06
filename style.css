@@ -1,8 +1,31 @@
-form{
-    color: blue;
+.paragraph-warning{
+    color:red;
+}
+/* .stuff {
+    text-align: center;
 
 }
+.stuff p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.stuff p:hover{
+    cursor: pointer;
+} */
 
-form label{
-    color:blueviolet;
+/* li{
+    list-style-type: none;
+}
+.random h2{
+    font-family: 'Lato', sans-serif;
+}
+
+span{
+    font-family: monospace;
+} */
+
+.list{
+    text-align: center;
+}
+.list-item{
+    list-style-type: none;
 }
